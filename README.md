@@ -214,7 +214,7 @@ If you believe they are warranted, you are free to add additional global variabl
 
 ## <a name="help">Help and Support</a>
 
-slack channel:  [awsjplroverchallenge.slack.com](https://awsjplroverchallenge.slack.com/)
+slack channel: [awsjplroverchallenge.slack.com](https://awsjplroverchallenge.slack.com/)
 
 
 
